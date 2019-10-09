@@ -1,0 +1,128 @@
+body		{ background-color: #F4BA00; 
+			color: #666666; 
+			font-family: Arial, Helvetica, sans-serif; 
+			background: linear-gradient(#F23F7E, #F4BA00); 
+			background-repeat: no-repeat; 
+}
+header		{  background-color: #F4BA00; 
+			color: #8F0033; 
+			margin-bottom: 0; 
+			height: 60px;
+			text-align: center;
+			padding-top: 15px; 
+}
+main	{padding-top: 1px; 
+		padding-right: 20px; 
+		padding-bottom: 20px; 
+		padding-left: 20px; 
+		display: block; 
+}
+nav		{ background-color: #8F0033; 
+		letter-spacing: 0.1em; 
+		font-weight: bold;  
+		text-align: center; 
+		padding: 1em; 
+		color: #6A08A3; 
+		position: relative; 
+}
+nav ul { list-style-type: none; 
+        margin: 0;
+}
+nav li { padding: 0.5em;
+      display: inline-block;
+}
+nav a { text-decoration: none; 
+       display: block;
+}
+nav ul ul	{ position: absolute; 
+			background-color: #8F0033; 
+			padding: 0; 
+			text-align: left; 
+			display: none; 
+}
+nav ul ul li	{ border: 1px solid #6A08A3; 
+				display: block; 
+				width: 8em; 
+				padding-left: 1em; 
+				margin-left: 0; 
+				text-align: left;
+}
+nav li:hover ul	{ display: block; } 
+nav a:link	{color: #6A08A3; }
+nav a:visited	{ color: #F4BA00; }
+nav a:hover	{ color: #F4BA00; }
+h1		{ font-family: Georgia, "Times New Roman", serif; 
+		margin-top: 0; 
+}
+h2		{ color: #6A08A3; 
+		font-family: Georgia, "Times New Roman", serif; 
+		text-shadow: 1px 1px 1px #CCCCCC; 
+}
+h3		{ color: #000033; 
+		font-family: Georgia, "Times New Roman", serif; 
+}
+dt		{ color: #002171; }
+footer		{ font-size: 75%; 
+			font-style: italic; 
+			text-align: center; 
+			font-family: Georgia, "Times New Roman", serif; 
+			padding: 2em; 
+}
+. 	{ color: #6A08A3; font-weight: bold; }
+
+table	{ border: 2px solid #6A08A3; 
+		border-collapse: collapse; 
+}
+td, th	{ padding: 0.5em; 
+		border: 2px solid #6A08A3; 
+}
+td		{ text-align: center; }
+tr:nth-of-type(odd)	{ background-color: #F4BA00; }
+
+ form	{ display: flex; 
+		flex-flow: column nowrap; 
+}    
+input, textarea { margin-bottom: .5em; }
+
+video	{ width: 100%; 
+		height: auto; 
+		max-width: 2048px; 
+		float: center; 
+}
+
+#wrapper	{ width: 80% ; 
+			margin-left: auto; 
+			margin-right: auto; 
+			background-color: #FFFFFF; 
+			min-width: 960px; 
+			max-width: 2048px; 
+			box-shadow: 3px 3px 3px #333333; 
+}
+#guitar1	{height: 600px; 
+			background-image: url(kayli_guitar1.jpg); 
+			background-size: 100% 100%; 
+}
+#guitar2	{height: 600px; 
+			background-image: url(kayli_guitar2.jpg); 
+			background-size: 100% 100%; 
+}
+#guitar3	{height: 600px; 
+			background-image: url(sozo2.jpg); 
+			background-size: 100% 100%; 
+}
+#guitar4	{height: 600px; 
+			background-image: url(pumpkin.jpg); 
+			background-size: 100% 100%; 
+}
+#guitar5	{height: 600px; 
+			background-image: url(hancepark.jpg); 
+			background-size: 100% 100%; 
+}
+#piano1		{height: 600px; 
+			background-image: url(pianok1.jpg); 
+			background-size: 100% 100%; 
+}
+#ukulele1		{height: 600px; 
+				background-image: url(ukulele1.jpg); 
+				background-size: 100% 100%; 
+}
