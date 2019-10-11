@@ -98,35 +98,35 @@ video	{ width: 100%;
 			max-width: 2048px; 
 			box-shadow: 3px 3px 3px #333333; 
 }
-#guitar1	{height: 600px; 
+#guitar1	{height: 300px; 
 			background-image: url(kayli_guitar1.jpg); 
 			background-size: 100% 100%; 
 }
-#guitar2	{height: 600px; 
+#guitar2	{height: 300px; 
 			background-image: url(kayli_guitar2.jpg); 
 			background-size: 100% 100%; 
 }
-#guitar3	{height: 600px; 
+#guitar3	{height: 300px; 
 			background-image: url(sozo2.jpg); 
 			background-size: 100% 100%; 
 }
-#guitar4	{height: 600px; 
+#guitar4	{height: 300px; 
 			background-image: url(pumpkin.jpg); 
 			background-size: 100% 100%; 
 }
-#guitar5	{height: 600px; 
+#guitar5	{height: 300px; 
 			background-image: url(hancepark.jpg); 
 			background-size: 100% 100%; 
 }
-#guitarwendy	{height: 600px; 
+#guitarwendy	{height: 300px; 
 			background-image: url(wendy1.jpg); 
 			background-size: 100% 100%; 
 }
-#piano1		{height: 600px; 
+#piano1		{height: 300px; 
 			background-image: url(pianok1.jpg); 
 			background-size: 100% 100%; 
 }
-#ukulele1		{height: 600px; 
+#ukulele1		{height: 300px; 
 				background-image: url(ukulele1.jpg); 
 				background-size: 100% 100%; 
 }
